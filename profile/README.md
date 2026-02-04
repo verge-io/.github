@@ -11,11 +11,6 @@ It’s built around a simple idea: **1 UI / 1 API / 1 Update = 1 Install Package
 - 🐍 Python SDK: https://github.com/verge-io/pyVergeOS
 - 🧰 CLI: https://github.com/verge-io/verge-cli
 
-## Core components (baked in)
-
-- **VergeHV (Hypervisor):** integrated Type-1 hypervisor built on KVM
-- **VergeFS (vSAN Storage):** distributed storage that pools capacity across the cluster with tiers, dedupe, snapshots, and self-healing
-- **VergeFabric (Networking):** software-defined networking with routing, DHCP/DNS, firewall/NAT/VPN, and micro-segmentation
 
 ## Automation & integrations
 
