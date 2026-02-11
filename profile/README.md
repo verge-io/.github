@@ -1,4 +1,4 @@
-# VergeOS — The Infrastructure Operating System
+# VergeOS — The Private Cloud Operating System
 
 **VergeOS** is an infrastructure operating system that converges **compute, vSAN storage, disaster recovery, networking, and private AI** into a single unified platform.
 
