@@ -1,6 +1,6 @@
 # VergeOS — The Private Cloud Operating System
 
-**VergeOS** is an infrastructure operating system that converges **compute, vSAN storage, disaster recovery, networking, and private AI** into a single unified platform.
+**VergeOS** is an private cloud operating system that converges **compute, vSAN storage, disaster recovery, networking, and private AI** into a single unified platform.
 
 It's built around a simple idea: **1 UI / 1 API / 1 Update = 1 Install Package**.
 
